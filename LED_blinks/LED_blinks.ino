@@ -1,6 +1,6 @@
 //Uses LED L on the Arduino Uno
 
-int ledPin =13: //LED is connected to LED pin 13
+int ledPin = 13; //LED is connected to LED pin 13
 
 //The seup routine configures the digital port
 //This routine is executed only once at program start!
