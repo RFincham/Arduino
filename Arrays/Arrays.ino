@@ -22,7 +22,7 @@ void loop()
     Serial.println("-----------------");
 
     //output the data of the first array
-    for(x=0,x<3;x++)
+    for(x=0;x<3;x++)
     {
       Serial.print(Array_1[x]);
       Serial.println();
@@ -31,7 +31,7 @@ void loop()
     Serial.println("Output of array 2 ");
     Serial.println("----------------");
 
-    \\output the data of the second array
+    //output the data of the second array
     Serial.print(Array_2[0]);
     Serial.println();
     Serial.print(Array_2[1]);
